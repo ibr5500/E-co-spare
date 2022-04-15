@@ -18,8 +18,11 @@
 
 ## Live Demo (if available)
 
-[Click](https://ibr5500.github.io/Capstone/) for Live Demo Link
+Please [click](https://ibr5500.github.io/Capstone/) for Live Demo Link
 
+## Description video
+
+Please [click](https://www.loom.com/share/78b1ff997ac544c687f3449efc68c729) for description video.
 
 ### Prerequisites
 - HTML & CSS & JS
@@ -59,13 +62,6 @@ Feel free to check the [issues page](../../issues/).
 
 Please give a ⭐️ if you like this project!
 
-
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration 
-- etc
 
 ## 📝 License
 
