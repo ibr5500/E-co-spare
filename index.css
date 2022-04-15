@@ -8,9 +8,6 @@ body {
   font-family: 'COCOGOOSE', sans-serif;
 }
 
-
-/* nav bar */
-
 .top-links-container {
   display: none;
   flex-direction: row;
@@ -130,10 +127,6 @@ header {
 .hidden {
   position: fixed;
   display: none;
-
-  /* text-align: center; */
-
-  /* align-items: center; */
   top: 0;
   left: 0;
   margin: auto;
@@ -149,9 +142,6 @@ header {
   justify-content: flex-start;
   margin: auto;
 }
-
-
-/* main section */
 
 main {
   background-image: url('./assests/cars-spears2.png');
@@ -229,9 +219,6 @@ main {
   font-family: 'Lato', sans-serif;
   margin: 0 0 50px 0;
 }
-
-
-/* card section */
 
 .features {
   flex-direction: column;
@@ -389,9 +376,6 @@ main {
   margin: 5px 0 5px 10px;
 }
 
-
-/* ???? */
-
 .card-speakers-button {
   width: 100%;
   font-family: 'Lato', sans-serif;
@@ -401,12 +385,6 @@ main {
   padding: 20px 0;
   border: 2px solid #d3d3d3;
 }
-
-
-/* ???? */
-
-
-/* foot section */
 
 .foot-container {
   width: 100%;
@@ -478,9 +456,6 @@ main {
   margin: 15px 0 0 0;
 }
 
-
-/* Creative Common Sectio */
-
 .creative-common-container {
   width: 100%;
   height: auto;
@@ -515,9 +490,6 @@ main {
   padding: 15px;
   margin: auto;
 }
-
-
-/* about page */
 
 .about-text-container {
   width: auto;
