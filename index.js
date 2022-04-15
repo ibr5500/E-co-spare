@@ -66,7 +66,7 @@ const speakerList = [{
 const cardsContainer = document.querySelector('.card-speakers-container');
 
 const cards = () => {
-  for (let i = 0; i < speakerList.length; i += 1) {
+  for (let i = 0; i < speakerList.length; i++) {
     cardsContainer.innerHTML += `
     <div class="card-speakers flex">
         <img class="card-img-speakers" src="${speakerList[i].image}" alt="${speakerList[i].name}" />
